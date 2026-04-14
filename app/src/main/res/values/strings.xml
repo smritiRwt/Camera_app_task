@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Camera App</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="no_captured_image"> "No captured images"</string>
+    <string name="captured_images">Captured Images</string>
+    <string name="capture">Capture</string>
+</resources>
